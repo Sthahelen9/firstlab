@@ -1,0 +1,15 @@
+body{
+    display: block;
+    margin-left: 27.5%;
+    margin-right: 27.5%;
+}
+h1{
+    color:red;
+    text-align: center;
+}
+h3{
+
+    font-size: 130%;
+    color:red;
+    text-align: center;
+}
